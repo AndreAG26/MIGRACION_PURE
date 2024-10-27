@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<v1:upmprojects xmlns:v1="v1.upmproject.pure.atira.dk" xmlns:v3="v3.commons.pure.atira.dk">
+
+  <v1:upmproject id="0000-0134-1024" type="other">
+    <v1:title>
+      <v3:text lang="es" country="CRC">eWave 2.0: Validación experimental de una estrategia de control óptimo para un sistema de conversión de la energía de las olas para maximizar el aprovechamiento de la energía oceánica</v3:text>
+    </v1:title>
+    <v1:internalParticipants>
+      <v1:internalParticipant>
+        <v1:personId>112690215</v1:personId>
+        <v1:role>pi</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>0000</v1:personId>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>0000</v1:personId>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+    </v1:internalParticipants>
+    <v1:managedByOrganisation id="17" />
+    <v1:visibility>Public</v1:visibility>
+  </v1:upmproject>
+
+  <v1:upmproject id="0000-0134-1025" type="other">
+    <v1:title>
+      <v3:text lang="es" country="CRC">Mantenimiento predictivo: desarrollo de sistemas de diagnóstico y pronóstico</v3:text>
+    </v1:title>
+    <v1:internalParticipants>
+      <v1:internalParticipant>
+        <v1:personId>304270545</v1:personId>
+        <v1:role>pi</v1:role>
+      </v1:internalParticipant>
+     
+      <v1:internalParticipant>
+        <v1:personId>303910836</v1:personId>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>109510837</v1:personId>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+    </v1:internalParticipants>
+    <v1:managedByOrganisation id="17" />
+    <v1:visibility>Public</v1:visibility>
+  </v1:upmproject>
+
+  <v1:upmproject id="0000-0134-1026" type="other">
+    <v1:title>
+      <v3:text lang="es" country="CRC">Sistema de enfriamiento pasivo para paneles fotovoltaicos mono-faciales</v3:text>
+    </v1:title>
+    <v1:internalParticipants>
+
+      <v1:internalParticipant>
+        <v1:personId>109320672</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="17"/>
+          <v1:organisation id="37"/>
+        </v1:organisationIds>
+        <v1:role>pi</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>206360220</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="17"/>
+          <v1:organisation id="37"/>
+        </v1:organisationIds>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>112690215</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="17"/>
+          <v1:organisation id="37"/>
+        </v1:organisationIds>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+    </v1:internalParticipants>
+
+    <v1:managedByOrganisation id="17" />
+    <v1:visibility>Public</v1:visibility>
+  </v1:upmproject>
+
+  <v1:upmproject id="0000-0135-1029" type="other">
+    <v1:title>
+      <v3:text lang="es" country="CRC">Metodología de optimización de la capacidad Instalada en los Servicios de Salud a través de Modelos de Simulación de Eventos Discretos</v3:text>
+    </v1:title>
+    <v1:internalParticipants>
+      <v1:internalParticipant>
+        <v1:personId>205750401</v1:personId>
+        <v1:role>pi</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>205360405</v1:personId>
+        <v1:role>institutional_collaborating_researcher</v1:role>      </v1:internalParticipant>
+      </v1:internalParticipant>
+    </v1:internalParticipants>
+    <v1:managedByOrganisation id="16" />
+    <v1:visibility>Public</v1:visibility>
+  </v1:upmproject>
+
+  <v1:upmproject id="0000-0135-1030" type="other">
+        <v1:title>
+        <v3:text lang="es" country="CRC">Confiabilidad en sistemas fotovoltaicos en entornos urbanos: desarrollo de una línea de investigación nueva en la Escuela de Ingeniería en Producción Industrial</v3:text>
+        </v1:title>
+    <v1:internalParticipants>
+
+      <v1:internalParticipant>
+        <v1:personId>108760622</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="16"/>
+          <v1:organisation id="17"/>
+          <v1:organisation id="37"/>
+        </v1:organisationIds>
+        <v1:role>pi</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>109320672</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="16"/>
+          <v1:organisation id="17"/>
+          <v1:organisation id="37"/>
+        </v1:organisationIds>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>110900211</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="16"/>
+          <v1:organisation id="17"/>
+          <v1:organisation id="37"/>
+        </v1:organisationIds>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+    </v1:internalParticipants>
+
+    <v1:managedByOrganisation id="16" />
+    <v1:visibility>Public</v1:visibility>
+  </v1:upmproject>
+
+    <v1:upmproject id="0000-0140-1142" type="other">
+    <v1:title>
+      <v3:text lang="es" country="CRC">Diagnóstico de la influencia de la complejidad estructural de bosques tropicales lluviosos primarios y secundarios en la diversidad del paisaje acústico en la Región de Sarapiquí.</v3:text>
+    </v1:title>
+    <v1:internalParticipants>
+      <v1:internalParticipant>
+        <v1:personId>110010379</v1:personId>
+        <v1:role>pi</v1:role>
+      </v1:internalParticipant>
+    </v1:internalParticipants>
+    <v1:managedByOrganisation id="17" />
+    <v1:visibility>Public</v1:visibility>
+  </v1:upmproject>
+
+</v1:upmprojects>
