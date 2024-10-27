@@ -33,26 +33,173 @@
     <v1:visibility>Confidential</v1:visibility>
   </v1:upmproject>
   //
+
+  <v1:upmproject id="0000-0134-1024" type="other">
+    <v1:title>
+      <v3:text lang="es" country="CRC">eWave 2.0: Validación experimental de una estrategia de control óptimo para un sistema de conversión de la energía de las olas para maximizar el aprovechamiento de la energía oceánica</v3:text>
+    </v1:title>
+    <v1:internalParticipants>
+      <v1:internalParticipant>
+        <v1:personId>person1</v1:personId>
+        <v1:role>pi</v1:role>
+      </v1:internalParticipant>
+    </v1:internalParticipants>
+    <v1:managedByOrganisation id="organisation1" />
+    <v1:visibility>Confidential</v1:visibility>
+  </v1:upmproject>
+
+  \\
+  <v1:upmproject id="5402-1381-7901" type="other">
+    <v1:title>
+      <v3:text lang="es" country="CRC">Caracterización de la deuda morosa en Costa Rica: Perfil de los deudores críticos del sector no regulado</v3:text>
+    </v1:title>
+    <v1:internalParticipants>
+
+      <v1:internalParticipant>
+        <v1:personId>701030771</v1:personId>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>109360929</v1:personId>
+        <v1:role>pi</v1:role>
+      </v1:internalParticipant>
+
+    </v1:internalParticipants>
+    <v1:managedByOrganisation id="28" />
+    <v1:visibility>Confidential</v1:visibility>
+  </v1:upmproject>
+  //
+
+  \\
+  <v1:upmproject id="5402-1381-8001" type="other">
+    <v1:title>
+      <v3:text lang="es" country="CRC">The project title</v3:text>
+    </v1:title>
+    <v1:internalParticipants>
+
+      <v1:internalParticipant>
+        <v1:personId>203880625</v1:personId>
+        <v1:role>pi</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>303160938</v1:personId>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+    </v1:internalParticipants>
+    <v1:managedByOrganisation id="28" />
+    <v1:visibility>Confidential</v1:visibility>
+  </v1:upmproject>
+  //
+
+  \\
+  <v1:upmproject id="5402-1411-3301" type="other">
+    <v1:title>
+      <v3:text lang="es" country="CRC">Observatorio de la Construcción</v3:text>
+    </v1:title>
+    <v1:internalParticipants>
+
+      <v1:internalParticipant>
+        <v1:personId>303300289</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="18"/>
+        </v1:organisationIds>
+        <v1:role>pi</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>113470859</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="56"/>
+        </v1:organisationIds>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>113620040</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="127"/>
+        </v1:organisationIds>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>302520671</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="18"/>
+        </v1:organisationIds>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+    </v1:internalParticipants>
+    <v1:managedByOrganisation id="organisation1" />
+    <v1:visibility>Confidential</v1:visibility>
+  </v1:upmproject>
+  //
+
+  \\
+  <v1:upmproject id="5402-1460-9301" type="other">
+    <v1:title>
+      <v3:text lang="es" country="CRC">Espectrometría de masas de alta resolución en la evaluación de la presencia de plaguicidas carbamatos y sus derivados metabólicos en matrices ambientales acuosas mediante metodologías de análisis no dirigido y dirigido</v3:text>
+    </v1:title>
+    <v1:internalParticipants>
+
+      <v1:internalParticipant>
+        <v1:personId>110500202</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="39"/>
+        </v1:organisationIds>
+        <v1:role>pi</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>117570703</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="115"/>
+        </v1:organisationIds>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>110830680</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="39"/>
+        </v1:organisationIds>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+      <v1:internalParticipant>
+        <v1:personId>303230736</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="115"/>
+        </v1:organisationIds>
+        <v1:role>institutional_collaborating_researcher</v1:role>
+      </v1:internalParticipant>
+
+    </v1:internalParticipants>
+    <v1:managedByOrganisation id="organisation1" />
+    <v1:visibility>Confidential</v1:visibility>
+  </v1:upmproject>
+
+  //
+
+  \\
   
   <v1:upmproject id="5402-1480-1701" type="other">
     <v1:title>
       <v3:text lang="es" country="CRC">Influencia del Aprendizaje Basado en Problemas (ABP) en la actitud positiva hacia al aprendizaje del Derecho en estudiantes de Ingeniería</v3:text>
     </v1:title>
     <v1:internalParticipants>
+
       <v1:internalParticipant>
         <v1:personId>105950108</v1:personId>
+        <v1:organisationIds>
+          <v1:organisation id="41"/>
+        </v1:organisationIds>
         <v1:role>pi</v1:role>
-      </v1:internalParticipant>
-    </v1:internalParticipants>
-    <v1:managedByOrganisation id="41" />
-    <v1:visibility>Confidential</v1:visibility>        no sabemos que va aqui
-  </v1:upmproject>
-
-  <v1:upmproject id="5402-1480-1701" type="other">
-    <v1:title>
-      <v3:text lang="es" country="CRC">Influencia del Aprendizaje Basado en Problemas (ABP) en la actitud positiva hacia al aprendizaje del Derecho en estudiantes de Ingeniería</v3:text>
-    </v1:title>
-    <v1:internalParticipants>
+      </v1:internalParticipant>  
 
       <v1:internalParticipant>
         <v1:personId>305220031</v1:personId>
@@ -71,8 +218,8 @@
       </v1:internalParticipant>
 
     </v1:internalParticipants>
-    <v1:managedByOrganisation id="04" /> o aqui va el participante
-    <v1:visibility>Confidential</v1:visibility>
+    <v1:managedByOrganisation id="04" />         o aqui va el participante
+    <v1:visibility>Confidential</v1:visibility>      no sabemos que va aqui
   </v1:upmproject>
   //
 
