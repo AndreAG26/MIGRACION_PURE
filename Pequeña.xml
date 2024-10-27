@@ -33,22 +33,7 @@
     <v1:visibility>Confidential</v1:visibility>
   </v1:upmproject>
   //
-
-  <v1:upmproject id="0000-0134-1024" type="other">
-    <v1:title>
-      <v3:text lang="es" country="CRC">eWave 2.0: Validación experimental de una estrategia de control óptimo para un sistema de conversión de la energía de las olas para maximizar el aprovechamiento de la energía oceánica</v3:text>
-    </v1:title>
-    <v1:internalParticipants>
-      <v1:internalParticipant>
-        <v1:personId>person1</v1:personId>
-        <v1:role>pi</v1:role>
-      </v1:internalParticipant>
-    </v1:internalParticipants>
-    <v1:managedByOrganisation id="organisation1" />
-    <v1:visibility>Confidential</v1:visibility>
-  </v1:upmproject>
-
-  \\
+  
   <v1:upmproject id="5402-1480-1701" type="other">
     <v1:title>
       <v3:text lang="es" country="CRC">Influencia del Aprendizaje Basado en Problemas (ABP) en la actitud positiva hacia al aprendizaje del Derecho en estudiantes de Ingeniería</v3:text>
