@@ -60,7 +60,6 @@
         <v1:personId>109320672</v1:personId>
         <v1:organisationIds>
           <v1:organisation id="17"/>
-          <v1:organisation id="37"/>
         </v1:organisationIds>
         <v1:role>pi</v1:role>
       </v1:internalParticipant>
@@ -68,7 +67,6 @@
       <v1:internalParticipant>
         <v1:personId>206360220</v1:personId>
         <v1:organisationIds>
-          <v1:organisation id="17"/>
           <v1:organisation id="37"/>
         </v1:organisationIds>
         <v1:role>institutional_collaborating_researcher</v1:role>
@@ -78,7 +76,6 @@
         <v1:personId>112690215</v1:personId>
         <v1:organisationIds>
           <v1:organisation id="17"/>
-          <v1:organisation id="37"/>
         </v1:organisationIds>
         <v1:role>institutional_collaborating_researcher</v1:role>
       </v1:internalParticipant>
@@ -118,8 +115,6 @@
         <v1:personId>108760622</v1:personId>
         <v1:organisationIds>
           <v1:organisation id="16"/>
-          <v1:organisation id="17"/>
-          <v1:organisation id="37"/>
         </v1:organisationIds>
         <v1:role>pi</v1:role>
       </v1:internalParticipant>
@@ -127,9 +122,7 @@
       <v1:internalParticipant>
         <v1:personId>109320672</v1:personId>
         <v1:organisationIds>
-          <v1:organisation id="16"/>
           <v1:organisation id="17"/>
-          <v1:organisation id="37"/>
         </v1:organisationIds>
         <v1:role>institutional_collaborating_researcher</v1:role>
       </v1:internalParticipant>
@@ -137,8 +130,6 @@
       <v1:internalParticipant>
         <v1:personId>110900211</v1:personId>
         <v1:organisationIds>
-          <v1:organisation id="16"/>
-          <v1:organisation id="17"/>
           <v1:organisation id="37"/>
         </v1:organisationIds>
         <v1:role>institutional_collaborating_researcher</v1:role>
